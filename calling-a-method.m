@@ -10,7 +10,7 @@
 	numero1		andNum2:(int)numero2
 {				/* metodo retornando el valor maximo */
 
-	int		resultado;
+	int	resultado;
 
 	if (numero1 > numero2) {
 		resultado = numero1;
@@ -22,8 +22,7 @@
 }
 @end
 
-int
-main()
+int main()
 {
 
 	/* local variable definition */
